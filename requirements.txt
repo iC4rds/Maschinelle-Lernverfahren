@@ -1,0 +1,21 @@
+# Task 1a, 1c, 2a, 2b – CNN mit Keras / Transfer Learning / Sliding Window
+tensorflow
+
+# Task 1b – CNN from Scratch (numpy, nur keras für CIFAR-10-Download)
+# (bereits durch tensorflow abgedeckt)
+
+# Task 3 – SciQ Chatbot
+torch
+transformers
+datasets
+
+# Gemeinsame Hilfsbibliotheken
+numpy
+matplotlib
+scikit-learn
+seaborn
+Pillow
+opencv-python
+
+# Jupyter
+ipykernel
